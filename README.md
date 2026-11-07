@@ -62,6 +62,7 @@ The repository contains the `.jar` files listed below. Click a mod name to open 
 
 ### 🧰 Gameplay & Quality of Life
 
+- [modmenu-17.0.0](https://github.com/fan-world-me/minecraft-mods-1.21.11/blob/main/modmenu-17.0.0.jar)
 - [appleskin-fabric-mc1.21.11-3.0.8](https://github.com/fan-world-me/minecraft-mods-1.21.11/blob/main/appleskin-fabric-mc1.21.11-3.0.8.jar)
 - [ClickCrystals-1.21.11-1.3.7](https://github.com/fan-world-me/minecraft-mods-1.21.11/blob/main/ClickCrystals-1.21.11-1.3.7.jar)
 - [ClientKits-2.0.0-1.21.11](https://github.com/fan-world-me/minecraft-mods-1.21.11/blob/main/ClientKits-2.0.0-1.21.11.jar)
